@@ -7,3 +7,7 @@ CSE student
 #### Heading4
 ##### Heading5
 ###### Heading6
+
+# text styles Italic bold Italic+bold
+"Good morning"
+****
