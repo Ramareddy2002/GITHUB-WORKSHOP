@@ -9,12 +9,12 @@ CSE student
 ###### Heading6
 
 # text styles Italic bold Italic+bold
-<br>
+
 *Good morning*
-<br>
+
 **Good morning**
-<br>
+
 ***Good morning***
-<br>
+
 [google](www.google.com)
 
