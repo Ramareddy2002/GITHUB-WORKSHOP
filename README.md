@@ -9,5 +9,5 @@ CSE student
 ###### Heading6
 
 # text styles Italic bold Italic+bold
-"Good morning"
-****
+*Good morning*
+**Good morning**
